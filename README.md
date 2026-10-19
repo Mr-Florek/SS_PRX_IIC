@@ -8,7 +8,9 @@ PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 
 ## Živá stránka
 https[://mr-florek.github.io/SS_PRX_IIC/](https://mr-florek.github.io/SS_PRX_IIC/)
+
 [https://mr-florek.github.io/SS_PRX_IIC/04_tema/mini-projekt.html](https://mr-florek.github.io/SS_PRX_IIC/04_tema/mini-projekt.html)
+
 [https://mr-florek.github.io/SS_PRX_IIC//04_tema/obrazky.html](https://mr-florek.github.io/SS_PRX_IIC/04_tema/mini-projekt.html)
 ## Čo som sa naučil(a)
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
