@@ -13,4 +13,4 @@ PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 
 [https://mr-florek.github.io/SS_PRX_IIC//04_tema/obrazky.html](https://mr-florek.github.io/SS_PRX_IIC/04_Tema/mini-projekt.html)
 
-[https://mr-florek.github.io/SS_PRX_IIC//08_tema/PROJEKT.html](https://mr-florek.github.io/SS_PRX_IIC/08_Tema/PROJEKT.html)
+[Vlastný mini projekt](https://mr-florek.github.io/SS_PRX_IIC/08_Tema/PROJEKT.html)
